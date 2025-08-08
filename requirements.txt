@@ -1,0 +1,10 @@
+gradio>=4.36.0
+transformers>=4.42.0
+torch>=2.1
+pymupdf>=1.24.7
+pdf2image>=1.17.0
+pytesseract>=0.3.10
+scikit-learn>=1.5.0
+numpy
+Pillow
+huggingface_hub>=0.24.0
